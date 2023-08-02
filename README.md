@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Hello World](https://komarev.com/ghpvc/?username=jjdechavez&label=Hello+World+🌏&style=for-the-badge)
 <!--
 **jjdechavez/jjdechavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
